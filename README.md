@@ -4,7 +4,8 @@
 - `git pull origin master` (descargar actualizaciones, antes de empezar a trabajar)
 - `git commit -m "..."` (adentro de las comillas se pone una descripcion muy corta de los cambios que hiciste)
 - `git push -u origin master` (para terminar de hacer los cambios, pushear al repositorio)
-- En caso de que tengan archivos nuevos para subir al repositorio es = `git add .`
+- `git add .` (para agregar archivos nuevos)
+- `git status` (para ver el estado del repositorio)
 
 ### Miembros:
 - Alina Piccardo
